@@ -1,0 +1,1 @@
+Firefly from adobe is not for commercial use unless you use the enterprise version.

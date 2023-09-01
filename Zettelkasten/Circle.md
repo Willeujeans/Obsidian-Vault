@@ -1,0 +1,1 @@
+A round plane figure that has a boundary made of points all equally distanced from the center. 

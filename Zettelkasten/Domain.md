@@ -1,0 +1,1 @@
+The [[Domain]] of a function is the set of its possible inputs, or in other words all possible $x$ values we can plug into our function.

@@ -1,0 +1,1 @@
+A triangle is a closed, 2-dimensional shape with 3 sides, 3 angles, and 3 vertices. A triangle is also a polygon. When using [[Addition]] on all angles of a triangle the degree will equal $180\degree$.

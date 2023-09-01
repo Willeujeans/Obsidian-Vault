@@ -1,0 +1,14 @@
+{
+  "autoPairMarkdown": false,
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "focusNewTab": true,
+  "livePreview": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "attachmentFolderPath": "Files"
+}

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Factoring\n*Gets its name from the idea splitting numbers into [[Factors]]*","id":"1ded7916c76e006e","x":-335,"y":-660,"width":690,"height":120},
+		{"type":"text","text":"$ax^2 + bx + c$\n$a*c = result$\nCheck what when using [[Multiplication]] would equal result **and** adds to b\n","id":"6d4e7dadce1de871","x":-335,"y":-520,"width":690,"height":100},
+		{"type":"text","text":"$3x^2-2x-5$ \n$3*(-5) = -15$\n$-5 * 3 = 15$ & $-5 + 3 = -2$\n$3x^2+3x-5x-5$\n","id":"85134295306e6d1d","x":-140,"y":-380,"width":300,"height":140},
+		{"id":"f0ecc367c8689101","x":-115,"y":-220,"width":250,"height":60,"type":"text","text":"$(3x-5)(x+1)$"},
+		{"type":"text","text":"$(3x-5)$","id":"f224a01329e5c808","x":-265,"y":-100,"width":250,"height":60},
+		{"type":"text","text":"$(x+1)$","id":"3fbefc727abaa491","x":35,"y":-100,"width":250,"height":60},
+		{"type":"text","text":"$(3x-5)=0$ \n$3x-5 = 0$\n$3x=5$\n$x=\\frac 5 3$","id":"0200006e25b1f19e","x":-265,"y":-10,"width":250,"height":140},
+		{"type":"text","text":"$(x+1)=0$\n$x+1=0$\n$x=-1$","id":"853c022e5b01e479","x":35,"y":-10,"width":250,"height":140}
+	],
+	"edges":[
+		{"id":"c8a465395ebdfe92","fromNode":"f224a01329e5c808","fromSide":"bottom","toNode":"0200006e25b1f19e","toSide":"top"},
+		{"id":"55f7d7722f700e63","fromNode":"3fbefc727abaa491","fromSide":"bottom","toNode":"853c022e5b01e479","toSide":"top"},
+		{"id":"8d4fc9c956d9ff5f","fromNode":"f0ecc367c8689101","fromSide":"bottom","toNode":"f224a01329e5c808","toSide":"top"},
+		{"id":"7f2dfc09720290a9","fromNode":"f0ecc367c8689101","fromSide":"bottom","toNode":"3fbefc727abaa491","toSide":"top"},
+		{"id":"c5c7550810d8745d","fromNode":"85134295306e6d1d","fromSide":"bottom","toNode":"f0ecc367c8689101","toSide":"top"},
+		{"id":"c19e33cc22373113","fromNode":"6d4e7dadce1de871","fromSide":"bottom","toNode":"85134295306e6d1d","toSide":"top"},
+		{"id":"866e6bee869a97aa","fromNode":"1ded7916c76e006e","fromSide":"bottom","toNode":"6d4e7dadce1de871","toSide":"top"}
+	]
+}

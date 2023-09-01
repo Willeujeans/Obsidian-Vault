@@ -1,0 +1,1 @@
+[[Range]] is the all the possible outputs or y-value of an equation or function.

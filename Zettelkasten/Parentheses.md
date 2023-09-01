@@ -1,0 +1,1 @@
+parentheses ( ) are used to specify the order of operations. Terms inside the bracket are evaluated first.

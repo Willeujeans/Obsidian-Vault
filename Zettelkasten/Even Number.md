@@ -1,0 +1,1 @@
+Any number when used in [[Division]] by 2 leaves no remainder.

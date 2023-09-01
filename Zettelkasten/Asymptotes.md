@@ -1,0 +1,1 @@
+A line that continually approaches a given curve but does not meet it at any finite distance.

@@ -1,0 +1,1 @@
+The vertical line that stretches for [[Infinity]] on the [[Cartesian Plane]].

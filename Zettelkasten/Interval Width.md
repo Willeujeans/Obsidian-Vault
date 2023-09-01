@@ -1,0 +1,1 @@
+Difference between the lower endpoint of an interval and the lower endpoint of the next interval, meaning this is the distance between intervals on a graph.
