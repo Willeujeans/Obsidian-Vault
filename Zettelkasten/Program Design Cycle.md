@@ -1,4 +1,4 @@
-[[C++2]]
+[[Object Oriented Design]]
 Its about breaking a problem down and implementing an automated solution. These solutions are language agnostic. 
 
 People often don't understand why people would use older languages. But thats because older code has been running successfully for years, so you might as well build off of that stable foundation.

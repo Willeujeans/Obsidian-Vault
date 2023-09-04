@@ -1,4 +1,4 @@
-[[C++2]]
+[[Object Oriented Design]]
 We read code more than we write it
 
 You should strive for readability over all else.

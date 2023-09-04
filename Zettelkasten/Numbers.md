@@ -1,3 +1,3 @@
-A Mathematical value expressed by a [[Symbols]] representing a particular quantity.
+A Mathematical value expressed by a symbols representing a particular quantity.
 
 #concept #Math

@@ -1,0 +1,1 @@
+Simply observing numbers that exist within the world without your manipulation

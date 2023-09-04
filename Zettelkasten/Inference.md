@@ -1,0 +1,1 @@
+- We draw an inference to the population from which was sample. We use the sample to generalize to the population.

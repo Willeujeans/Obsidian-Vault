@@ -1,0 +1,2 @@
+- Splits your data into 4 parts
+- Q2 is the median

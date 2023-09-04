@@ -1,4 +1,4 @@
-*Uses a system of nodes and pointers, nodes store data and a pointer to another node*
+*System of nodes that make use of the [[Pointer]], nodes store data and a pointer to another node*
 
 ## Single Linked List
 *navigation is forward only*

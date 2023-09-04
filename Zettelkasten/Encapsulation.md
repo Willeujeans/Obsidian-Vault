@@ -1,4 +1,4 @@
-[[C++2]]
+[[Object Oriented Design]]
 Also known as data hiding
 You want to restrict access to data from different classes, and either have getter and setter functions to pass that data to each other.
 Much like a bank transporting money on an armored van.

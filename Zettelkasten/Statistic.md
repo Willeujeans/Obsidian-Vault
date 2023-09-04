@@ -1,0 +1,2 @@
+- The world is complex, we want to learn about it, so we collect observations about the world called "data". This allows us to organize that data to create information and predictions.
+- Any number you calculate using data we often use statistics to estimate values.

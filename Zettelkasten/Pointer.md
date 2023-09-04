@@ -1,0 +1,2 @@
+- Rather than using just the value stored in the pointer, we reference the memory address the pointer resides at.
+- Which removes the need to reconstruct the data because it exists there we just simply point to it.

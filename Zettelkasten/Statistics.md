@@ -1,5 +1,3 @@
-## Statistics
-The world is complex, we want to learn about it, so we collect observations about the world called "data". This allows us to organize that data to create information and predictions.
 ## Quantifying uncertainty
 Figuring out how wrong we think we are.
 ## Statistical claims
@@ -9,8 +7,9 @@ Figuring out how wrong we think we are.
 - MoE
 - You want smaller margin of errors
 
-[[Stat Variables]]
-[[Stat Studies]]
+[[Statistic Variables]]
+[[Population]]
+[[Statistic Studies]]
 [[Populations & Samples & Inference]]
 [[Summarizing Data]]
 [[Dispersion]]

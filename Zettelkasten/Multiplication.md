@@ -7,7 +7,7 @@ Multiplication is commutative, the order of terms around the symbol does not cha
 Multiplication is associative, meaning that order does not matter you can do right to left.
 
 #### Notation
-Can be denoted by  **a**(**b**), **x**, $\bullet$ [[Symbols]] 
+Can be denoted by  **a**(**b**), **x**, $\bullet$ 
 In notation when two terms sit next to each other they are implied to be multiplied.
 
 #Math

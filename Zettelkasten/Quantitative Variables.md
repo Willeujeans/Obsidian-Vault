@@ -1,0 +1,1 @@
+- Numeric variables, height, weight, number of people

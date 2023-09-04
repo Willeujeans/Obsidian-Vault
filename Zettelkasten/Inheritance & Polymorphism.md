@@ -1,4 +1,4 @@
-[[C++2]]
+[[Object Oriented Design]]
 Inheritance
 "What this object is"
 allows the developer to reuse code

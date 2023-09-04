@@ -1,0 +1,2 @@
+- A subset of an entire population, because we cannot get data on the entire population really.
+- Example: the amount of people within the test

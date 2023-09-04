@@ -1,0 +1,1 @@
+- A numeric characteristic pertaining to a population, which's value is unknown so we try to estimate it.
