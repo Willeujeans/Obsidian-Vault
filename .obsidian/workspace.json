@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f33b61f9af6b08bb",
+            "id": "6becd2fea94933c6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,91 +16,19 @@
             }
           },
           {
-            "id": "e183c3c34cdf8764",
+            "id": "2081da8c52e829bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/C++.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28de41d4585757a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Accessing Members Within Class or Object.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fbf80bed2f5eb57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/Conditional Statements.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71115bdfe8b6499f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/C++ Output.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9e1866cfee2ad66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/C++ Input.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fee51d84e15379ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/C++ Headers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28eb38f606dd8e76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zettelkasten/C++ Input.md",
+                "file": "Zettelkasten/Chrome Extensions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "47ccaea887df3fb6",
@@ -166,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Accessing Members Within Class or Object.md",
+                "file": "Zettelkasten/Chrome Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Accessing Members Within Class or Object.md",
+                "file": "Zettelkasten/Chrome Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Accessing Members Within Class or Object.md"
+                "file": "Zettelkasten/Chrome Extensions.md"
               }
             }
           }
@@ -227,18 +156,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28de41d4585757a4",
+  "active": "2081da8c52e829bd",
   "lastOpenFiles": [
-    "Zettelkasten/C++.md",
-    "Zettelkasten/Accessing Members Within Class or Object.md",
-    "Zettelkasten/Conditional Statements.md",
+    "Zettelkasten/Chrome Extensions.md",
+    "Zettelkasten/Sorting Algorithms.md",
+    "Zettelkasten/CS Arrays.md",
+    "Zettelkasten/Calculus.md",
+    "Zettelkasten/Phishing.md",
+    "Zettelkasten/computer science.md",
+    "Zettelkasten/Cyber Security.md",
+    "Zettelkasten/Definition of the Limit Using Epsilon Delta.md",
+    "Files/Pasted image 20230905153451.png",
+    "Zettelkasten/Statistics.md",
+    "Zettelkasten/Statistic Variables.md",
     "Zettelkasten/C++ Output.md",
+    "Zettelkasten/Conditional Statements.md",
+    "Zettelkasten/Accessing Members Within Class or Object.md",
+    "Zettelkasten/C++.md",
     "Zettelkasten/C++ Input.md",
     "Zettelkasten/C++ Headers.md",
     "Zettelkasten/Median.md",
-    "Zettelkasten/Statistics.md",
     "Zettelkasten/Stats Module 1.md",
-    "Zettelkasten/Statistic Variables.md",
     "Zettelkasten/Predictor and response Variables.md",
     "Zettelkasten/Summarizing Data.md",
     "Zettelkasten/Populations & Samples & Inference.md",
@@ -247,14 +185,6 @@
     "Zettelkasten/Statistic.md",
     "Zettelkasten/Inference.md",
     "Zettelkasten/Parameters.md",
-    "Zettelkasten/Samples.md",
-    "Zettelkasten/Small sample size.md",
-    "Zettelkasten/Statistic Studies.md",
-    "Zettelkasten/Experimental Studies.md",
-    "Zettelkasten/Observational Studies.md",
-    "Zettelkasten/Population.md",
-    "Zettelkasten/Categorical or Qualitative Variables.md",
-    "Zettelkasten/Nominal.md",
     "Files/Screenshot 2023-09-02 at 1.02.33 PM.png",
     "Files/Pasted image 20230902120455.png",
     "Files/Pasted image 20230902120433.png",
@@ -264,7 +194,6 @@
     "Files/LinearSearch.gif",
     "Files/SearchGif.gif",
     "Files/Pasted image 20230831123148.png",
-    "Files/Pasted image 20230831123129.png",
     "Untitled 1.canvas",
     "References/PreCalcExamReview 1.pdf",
     "References/PreCalcExamReview Final.pdf",
