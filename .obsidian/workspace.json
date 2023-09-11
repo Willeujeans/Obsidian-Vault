@@ -11,24 +11,15 @@
             "id": "6becd2fea94933c6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "2081da8c52e829bd",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Chrome Extensions.md",
+                "file": "Zettelkasten/Sorting Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -95,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Chrome Extensions.md",
+                "file": "Zettelkasten/Sorting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Chrome Extensions.md",
+                "file": "Zettelkasten/Sorting Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Chrome Extensions.md"
+                "file": "Zettelkasten/Sorting Algorithms.md"
               }
             }
           }
@@ -156,8 +148,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2081da8c52e829bd",
+  "active": "6becd2fea94933c6",
   "lastOpenFiles": [
+    "Files/Screenshot 2023-09-10 at 4.05.50 PM.png",
+    "Files/Pasted image 20230910160130.png",
+    "Untitled.canvas",
     "Zettelkasten/Chrome Extensions.md",
     "Zettelkasten/Sorting Algorithms.md",
     "Zettelkasten/CS Arrays.md",
@@ -184,7 +179,6 @@
     "Zettelkasten/Quartiles.md",
     "Zettelkasten/Statistic.md",
     "Zettelkasten/Inference.md",
-    "Zettelkasten/Parameters.md",
     "Files/Screenshot 2023-09-02 at 1.02.33 PM.png",
     "Files/Pasted image 20230902120455.png",
     "Files/Pasted image 20230902120433.png",
@@ -193,13 +187,11 @@
     "Files/Screenshot 2023-08-30 at 12.50.18 PM.png",
     "Files/LinearSearch.gif",
     "Files/SearchGif.gif",
-    "Files/Pasted image 20230831123148.png",
     "Untitled 1.canvas",
     "References/PreCalcExamReview 1.pdf",
     "References/PreCalcExamReview Final.pdf",
     "References/PreCalcExamReview 4.pdf",
     "References/PreCalcExamReview 3.pdf",
-    "Untitled.canvas",
     "References/CalcSchedule.pdf",
     "References/PreCalcExamReview 2.pdf",
     "References/PreCalcExamReview2.pdf",

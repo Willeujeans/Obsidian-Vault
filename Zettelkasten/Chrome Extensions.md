@@ -17,3 +17,7 @@
 ### HTML
 ### CSS
 ### Javascript
+
+## PopUps
+- cannot be smaller than 25x25
+- cannot be bigger than 800x600

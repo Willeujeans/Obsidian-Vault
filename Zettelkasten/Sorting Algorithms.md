@@ -7,7 +7,7 @@ The process of rearranging a list either into ascending or descending order.
 - we then swap the first index after our sorted partition with the MIN
 - we then move the sorted partition up 1
 
-## Example
+### Example
 - array of {4,5,3,1}
 - our MIN is 4
 - we search
@@ -39,4 +39,14 @@ void SelectionSort(int* numbers, int numbersSize) {
       numbers[indexSmallest] = temp;
    }
 }
+```
+
+## Insertion Sort - $O(N^2)$
+![[Pasted image 20230910160130.png]]
+```
+for i:1 to length(A)-1
+	j=i
+	while j>0 and A[j-1]>A[j]
+		swapA[j] and a[j-1]
+		j=j-1
 ```
