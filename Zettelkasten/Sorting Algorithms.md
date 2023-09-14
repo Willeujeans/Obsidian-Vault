@@ -50,3 +50,4 @@ for i:1 to length(A)-1
 		swapA[j] and a[j-1]
 		j=j-1
 ```
+

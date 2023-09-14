@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d38cad6a57ff574d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d38cad6a57ff574d",
+  "active": "6becd2fea94933c6",
   "lastOpenFiles": [
     "Files/Screenshot 2023-09-10 at 4.05.50 PM.png",
     "Files/Pasted image 20230910160130.png",
