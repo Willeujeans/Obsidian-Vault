@@ -1,5 +1,25 @@
 The process of rearranging a list either into ascending or descending order.
+## Code
+### Outer loop
+Runs the length of the array
+### Inner loop
+will compare and swap
 
+## Bubble Sort - $O(N^2)$
+A simple algorithm that will compare adjacent elements and move the smallest to the left
+```
+for i:0 to length(Array)
+	for j:0 to length(Array)-i-1 
+		if(array[j] > array[j+1])
+			swap array[j] & array[j+1]
+
+```
+
+```
+innerLoop
+for j:0 to length(Array)-i-1 
+//this is because the first i'th elements are sorted
+```
 ## Selection Sort - $O(N^2)$
 - We grab the lowest number and store it as our MIN
 - we then cycle through the rest of the array looking for anything smaller

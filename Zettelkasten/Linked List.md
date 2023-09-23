@@ -1,6 +1,6 @@
 *System of nodes that make use of the [[Pointer]], nodes store data and a pointer to another node*
 
-## Single Linked List
+## [[Single Linked List]]
 *navigation is forward only*
 Made from a collection of nodes
 nodeStructure = {data:"gamer", link: nodes[3]}

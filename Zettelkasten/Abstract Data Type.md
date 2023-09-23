@@ -4,7 +4,7 @@ A data type with predefined operations, such as "append data at end" or "append 
 list, set, dict, deque
 
 C++
-vector, list, deque, queue, stack, set, map
+vector, [[List]], deque, queue, stack, set, map
 
 Java
 Collection, Set, List, Map, Queue, Deque
